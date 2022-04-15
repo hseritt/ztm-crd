@@ -11,3 +11,13 @@ Remove a dependency from package.json: npm uninstall package --save == yarn remo
 Upgrade a package to its latest version: npm update --save == yarn upgrade
 
 Install a package globally: npm install package -g == yarn global add package
+
+
+## React Getting Started
+
+https://create-react-app.dev/docs/getting-started/
+
+```
+npx create-react-app <app-name>
+```
+
